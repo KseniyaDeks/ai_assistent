@@ -2,7 +2,7 @@
 https://t.me/Obuchenieprodajam_bot
 
 
-![Иллюстрация к проекту]([https://example.com/image.png](https://github.com/KseniyaDeks/ai_assistent/blob/main/%D0%B1%D0%BE%D1%82.png?raw=true)
+![Иллюстрация к проекту](https://github.com/KseniyaDeks/ai_assistent/blob/main/%D0%B1%D0%BE%D1%82.png?raw=true)
 
 
 ## Описание проекта
